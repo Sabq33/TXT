@@ -1,4 +1,4 @@
-Envoriment Win 10
+ Envoriment Win 10
       Build 1.00
       Id C014
       Title Error 404 on main page
