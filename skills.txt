@@ -1,0 +1,8 @@
+Skills
+     Testing:   Manual testing, test cases, plans and suits, defects and bug tracking
+     Databases: MySQL
+     Tools:     Postman, Charles, Fiddler, Jmeter
+     Reading:   Http, CSS, JS
+     Terminal:  Linux
+     Structure: Json, XML
+
